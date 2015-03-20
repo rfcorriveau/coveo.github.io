@@ -9,7 +9,7 @@ author:
   name: Roxanne Fanny Corriveau
   bio: Product Designer
   twitter: rfcorriveau
-  image: LINK_TO_IMAGE
+  image: rfcorriveau.jpg
 
 ---
 
